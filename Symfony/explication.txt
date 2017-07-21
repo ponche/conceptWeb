@@ -1,0 +1,28 @@
+Symfony, un framework PHP
+
+créateur de Symfony : Fabien POTENCIER 	
+par l'entreprise SensioLabs
+
+open source
+
+framework: boite à outils
+
+origine de symfony:
+crée pour réponde au besoin des clients
+résoude des problématique : 
+	- dé sécurité 
+	- de déploiement 
+	- d'évolutité du code 
+	
+un ensemble de brique logiciel
+des composant réutilisables
+
+Framework : 
+	- Fonctiannalité sur mesure
+	- Brique logiciel bas niveau
+	- Pas d'architecture global du site web
+	- pas de fonctionnalités standards 
+	- Liberté de crée ses propres fonctionnalités
+
+	
+	

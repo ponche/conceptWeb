@@ -1,0 +1,9 @@
+Node.js permet d'utiliser le langage Javascript sur le serveur
+
+Node.js offre un environnement coté serveur (remplace les langage serveur comme PHP, Java EE, etc )
+
+Node.js est un environnemnt très bas niveau. 
+
+NodeJs est rapide car il utilise : 
+- il utilise le Moteur V8 (outil open source crée par Google qui analyse et exécute du code Javascript très rapidement ) 
+- fonctionnent sur le modèle non bloquant ( basé sur les evenement ) 

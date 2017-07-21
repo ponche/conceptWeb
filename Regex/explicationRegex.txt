@@ -1,0 +1,14 @@
+les expressions régulière, permet de faire des test plus poussé sur les chaines de caractère.
+
+exemples d'utilistion : 
+vérifier : 
+	-une adresse mail
+	-numérode de téléhpone 
+	-complexité du password
+	
+classe en regex : 
+
+\d : un chiffre
+\D ; caractère qui n'est pas un chiffre
+\w : caractère alpha-numérique, ou undescore
+\W : caractère non alpha-numérique (autre que undescrore)

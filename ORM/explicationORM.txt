@@ -1,0 +1,20 @@
+ORM = object-relational mapping 
+
+est une technique de programmation informatique qui crée l'illusion q'une base de donnée 
+
+Le mapping object-relational est considé comme une méthode de programmation pour la traduction des données entre les sytèmes de bases de donnée relationnelles et des langages de programmation orienté objet.
+
+Un ORM est une class( ou bien souvent un sensembe de classe) visant à ce que l'utilisateur puisse manipuler ses tables de donnée come si c'étaient des object. 
+Avantages :
+- réduit la quantité de code qui doit etre écrit 
+
+Inconvénients
+
+exemple de ORM : 
+
+PHP: 
+-Doctrine (donc utilisé dans Symfony)
+-CakePHP
+-Laravel
+
+

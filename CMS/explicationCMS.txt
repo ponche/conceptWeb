@@ -1,0 +1,20 @@
+CMS =  Content Management System / (SGC) Système de gestion de contenu
+
+Un CMS est un logiciel - qui tourne sur un serveur web -permettant de créer, de façon simple, des pages web 
+dynamqie
+
+Les CMS permette de mettre en place un site web sans connaissance en programmation. Toutes les actions 
+se font à travers des interfaces graphiques, et non avec des lignes de code.
+
+Avantages : 
+- ils sont accesibles : pas besoin de connaître un langage de programmation pour pouvoir les utiliser ou les installer
+- ils sont rapides à mettre en place : quelques heures pour les plus complexes, quelques minutes pour les plus simples
+- ils font gager du temps : développer tout un site web à partir de zéro -plutôt q'utiliser des outils préconçus - est chronophage
+- ils sont soutenus par une communauté: c'est le meilleur moyen d'avoir des outils performants et varié, et d'obtenir de l'aide. 
+- ils sont faciles à maintenir et à à faire faire évoluer ( usage, technologi, desing, ergonomie, etc) .
+
+Inconvénients : 
+-Ils manquent de flexibilité : la grande majorité des CMS proposent énormément de fonctionné, néamoins plus complex  et cout d'ajouter celles qui ne sont pas prévues
+-ils sont moins performants, : la généricité et la complexité des CMS les rend, à qualité égale moins performants qu'un site construit sans CMS
+-Ils sont plus susceptibles d'être attaqués : commet tous les sites utilisant le même CMS partagenet un code source commun, il est nettement plus aisé de piratéer un CMS, 
+-Ils sont difficiles à miger: changer de CMS est souvent beacoup plus long et complexe que de faire évoluer un 

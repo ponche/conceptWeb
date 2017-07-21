@@ -1,0 +1,8 @@
+MVC = Modele vue Controleur
+
+Controleur : contient tout la logique du code, partie du système qui fais tous le travail 
+
+Modele: cette partie contient que des fonctions (classe) , a pour but de gérer les l'organisation des donnée
+
+Vue: contient les template, thèmes qui permet de géréer le page
+
