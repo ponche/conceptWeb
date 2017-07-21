@@ -29,7 +29,13 @@ git checkout maBranch			change de branch (dimension parallèle)
 git status                     affiche l'etat de l'index (fichier suivi, fichier modifié, etc) ;
 git log                       voir l'historique des commits 
 git clone repo                  importer un projet complet sur son PC
-git push                        sousmete son depot a distance
+git push remote branch                      sousmete son depot a distance
 git pull                        récuperer les mise a jour du répertoire distance 
 git merge maBranch				fusionne la branc maBranche dans la branch actuel 
+
+
+le remote par défaut est origin 
+la branch principal est master 
+
+
 
