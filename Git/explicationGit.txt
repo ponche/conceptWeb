@@ -1,0 +1,35 @@
+…or create a new repository on the command line
+
+echo "# conceptWeb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ponche/conceptWeb.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/ponche/conceptWeb.git
+git push -u origin master
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+commandes Git : 
+git init    inialise un répértoire git 
+git add     ajoute un fichier dans l'index 
+git remote add origin https://github.com/ponche/conceptWeb.git ajoute un remote 
+git commit   crée un commmit (point temporel) 
+git branch  liste les branch 
+git branch maNouvelleBranche    crée une nouvelle branche (dimension parallèle ) 
+git checkout numberSHA          va voir l'était par rapport à un commit (retour dans le passé) 
+git checkout maBranch			change de branch (dimension parallèle) 
+git status                     affiche l'etat de l'index (fichier suivi, fichier modifié, etc) ;
+git log                       voir l'historique des commits 
+git clone repo                  importer un projet complet sur son PC
+git push                        sousmete son depot a distance
+git pull                        récuperer les mise a jour du répertoire distance 
+git merge maBranch				fusionne la branc maBranche dans la branch actuel 
+
