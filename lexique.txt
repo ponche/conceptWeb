@@ -1,0 +1,12 @@
+POO = programmation orienté object 
+méthodes = fonctions appartement à un objet
+attributs = variable appartenent à un object
+MVC = model view controler
+fonctions récursive = fonction qui s'appele elle même 
+ORM = object-relational mapping 
+git = système de versioning de code qui fonctionne sur le modèle distribué
+callBack = fonction de rappel 
+arguments = paramète d'entré d'une fonction ex sum(a,b) ; a et b sont les arguments 
+framework = boite à outil du dévellopeurs 
+regex = expression régulier, cela permet de faire des recherche, vérification et manipulation donnée. (utilse pour vérié les donnée d'un formulaire) 
+CMS = content manager system 
