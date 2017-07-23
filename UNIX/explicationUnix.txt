@@ -1,0 +1,43 @@
+UNIX est un système d'exploitation 
+
+Unics -> Unix
+le code-source d'UNIX, fut d'abord écrit en Assembleur, 
+
+l'entreprise de téléphonique AT&T, propriétaire des laboratoire Bell, 
+
+
+plusierur version améliorées d'UNIX, et notament 
+BSD UNIX (Berkeley Software Distribution, 1977), distribuée gratuitement par l'Université de 
+Californier Berkeley. Son principal dévellopeur était un étudant : Bill Joi.
+
+Xenix(1980),oeuvre d'une petite entreprise américiane répondant au doux noms de Microsoft.
+
+Sun OS(1982), version paynante de BSD UNIX vendue par Sun microsystems, la société fondée par Bill Joy
+après ses études.
+
+
+Qui sont les UNIX?
+
+La marque commerciale UNIX est déposée et appartient à l'open Group: un consortium d'entrpises et d'organisation
+(ex: Oracle, Hitachi, Apple, HP, IBM, NASA, etc).pour pouvoir utiliser cette marque dans leurs publicité, les OS doivent demander à ce groupe la Single UNIX Specification, une 
+certification payane( et chère)
+
+
+
+Et Linux, alors ?
+
+Les systems d'exploitation de type GNU/Linux(Ubuntu, Fedora, Debian, etc). n'ont pas de lien historique avec Unix
+le sigle GNU signifie d'ailleurs "GNU is Not Unix". ils ressemblent cependant beaucoup aux Unix et ne sont pas 
+loin d'etre aussi perfomances qu'eux. une différence important , tout de même concerne la stabilité: celle des Linux est très bonne mais peut être remise en cause par les aplications exécutées losque celles ci
+contiennent des BUGS, Ces OS sont donc plus adaptés à des particuliers qu'a un usage professionnel en entreprise. 
+
+Ajourd'hui, les UNIX les plus utilisé sont :
+
+MAC OS X: Le fameux système d'exploitation d'Apple est de loin le plus répandu. 
+Solaris : Développé pendant des années par Sun MIcrosystems et désormais par Orable, c'est L'UNIX leader sur le marché des serveurs. 
+FreeBSD : Un système d'exploitation libre, gratuit est de plus en plus utilisé, il est particulièrement prisé pour herbélé des sites web. 
+AIX et HP-UX: Dévellopés respectivement par IBM et Hewlett-Packard. Ce sont les plus anciens OS encore utilisés
+OpenBSD: Un système d'exploitation très fermé. Il soigne particulièrement ses pare-feu et crytages et n'a pas son pareil pour transformer un ordinateur en coffre-fort.
+NetBSD: Le seul OS capable de préparer votre petit-déjeunex. Ce contorsionniste d'adapte à toutes les architecture matérielles possible et imaginalbes, depuis les ordinateur de la Station 
+spatiale international jusqu'aux téléphone portable.
+
