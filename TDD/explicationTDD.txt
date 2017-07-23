@@ -1,0 +1,25 @@
+Le test-driven development (TDD) ou développement piloté par les tests est une technique de développement de logiciel
+qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel .
+
+Le cycle préconisé par TDD comporte cinq étapes :
+
+    écrire un premier test ;
+    vérifier qu'il échoue (car le code qu'il teste n'existe pas), afin de vérifier que le test est valide ;
+    écrire juste le code suffisant pour passer le test ;
+    vérifier que le test passe ;
+    puis réusiner le code, c'est-à-dire l'améliorer tout en gardant les mêmes fonctionnalités.
+
+
+Avantages : 
+
+-ca permet de s'assurer que le code est fiables
+
+il est généralement utilisé la métaphore du rallye automobile. pour chaque fonctionnalité à réaliser, l'un 
+des développeurs nommé copilote, code le test. Ensuite le pilote code la fonctionnalité elle-meme 
+
+a chaque nouvelle fonctionnalité ajouter, l'ensemble tes-code sera de nouveau exécuté, réduitant  le risque de régression.
+
+
+cette technique peut etre couplé avec une autres (Test fail first) qui consiste à demander en premier lieu au pilote de coder avec une erreur
+afin  de vérifier le comportement de l'applicatif
+
