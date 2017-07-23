@@ -1,0 +1,47 @@
+un shell est un environnement console. 
+
+il en existe plusieur.
+
+sh : bourne Shell. l'ancetre de tous les shells
+bash: Bourne again shell, une amélioration du bourne shell, disponible par défaut sous linx et Max OS X
+ksh : korn shell. un shell puissant assez présent sur les Unix propirétaires, mais aussi disponible en version libre, compatbile avec bash
+csh: C Shell. Un shell utilisant une syntaxe proche du langage C.
+tcsh : Tenex C Shell. Amélioration du C Shell
+zsh: Z Shell. Shell assez récents reprenant les meillerus idées de bash, ksh et tcsh. 
+
+il en d'autre, ceci sont les prinpaux. 
+
+a quoi ça sert ? 
+
+Le shell est le programme qui gère l'invite de commandes. C'est donc le programme qui attend 
+que vous rentirez des commandes. (la console moche) 
+
+voici quelque commande du shell bash : 
+ls       	 affiche la liste des fichier et dossier
+cd   		(change directory) change le répertoire courant
+date          done la date du système
+man 		ouvre le manuel RTFM (jolie nom de la doc) 
+pwd :     	(print work directory) affiche le dossier actuel 
+which : 	connaitre l'emplacement d'une commande
+cat: 		afficher tout le fichier
+less : 		afficher le fichier page par page
+head: 		affiche le début d'un fichier
+tail:		affiche la fin d'un fichier
+touch: 		crée un fichier
+mkdir:		créer un dossier
+cp:			copier un fichier
+mv:			déplacer un fichier
+rm:			supprimer un fichier
+ln:			crée des liens entre fichier (des raccoursie) 
+sudo: 		devenir root un instant (super utilisateur, administrateur) 
+sudo su: 	devenir root et le rester
+adduser:	ajouter un utilisateur
+passwd:		changer de mot de passe
+deluser:	suppirmer un utilisateur
+addgroup: 	créer un groupe
+usermod: 	modifier un utilisteur
+delgroup: 	suppirmer un groupe
+chown:		changer le propirétaire d'un fichier
+chrp: 		changer le groupe propriétaire d'un fichier
+chmod:		modifier les droits d'accès
+
